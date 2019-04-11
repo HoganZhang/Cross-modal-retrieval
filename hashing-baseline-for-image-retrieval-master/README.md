@@ -1,4 +1,4 @@
-### Hashing methods
+## Hashing methods
 
 - **PCA-ITQ**,**PCA-RR**: Iterative Quantization. [ITQ](http://slazebni.cs.illinois.edu/research/smallcode.zip)。Yunchao Gong and Svetlana Lazebnik.  Iterative Quantization: A Procrustean Approach to Learning Binary Codes. In: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
 
@@ -47,9 +47,6 @@
 	 - [Imagenet](#imagenet)
 
 # Introduction
----
-
-# Categories
 ---
 ## Data-Independent Method
 * Similarity Search in High Dimensions via Hashing \[[paper](http://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf)\]
