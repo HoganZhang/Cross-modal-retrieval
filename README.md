@@ -7,6 +7,7 @@ hashing methods and cross-modal retrieval methods.
 Some hashing baselines for image retrieval can be found in <https://github.com/willard-yuan/hashing-baseline-for-image-retrieval>.
 #### Multiple modalities hashing methods
 More details refer to <https://github.com/czxxjtu/Hash-Learning.github.io>.
+Some details about hashing methods are in hashing-baseline-for-image-retrieval-master folder.
 #### Cross-modal retrieval methods
 The compared cross-modal retrieval methods are according to the paper:
 
